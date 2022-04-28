@@ -1,9 +1,4 @@
 """
-Name: Project 3: Coffee Machine  
-Author: Jaxon Downing
-Due Date: 10/13/2020
-Course: CS 1410 001 | Fall 2020
-
 This is an object-oriented design projcet that simulates a vending machine that dispenses different types
 of (old-fashioned) coffee as well as chicken bouillon.
 The program can either be ran from the shell by calling Main() or through the command line.
@@ -11,10 +6,6 @@ The program can either be ran from the shell by calling Main() or through the co
 Things I learned: I learned more about classes, how they work and how I can fit them together to make a whole,
 a.k.a the coffee machine. I also learned how to write my program to have a tighter control on how it runs
 so that if the user inputs something incorrectly the program doesn't crash.
-
-I declare that the following source code was written solely by me.
-I understand that copying any source code, in whole or in part, constitutes cheating,
-and that I will receive a zero on this project if I am found in violation of this policy.
 """
 from sys import argv
 
